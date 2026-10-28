@@ -19,4 +19,4 @@ Run
 python main.py
 
 Citation
-If you use this code, please cite the corresponding Scientific Reports publication.
+If you use this code, please cite the corresponding ********** publication.
